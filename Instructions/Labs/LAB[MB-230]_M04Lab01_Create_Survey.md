@@ -168,7 +168,7 @@ In this exercise, you will create an email template and send the survey by email
 
      ![](../images/resolution-10.png)
 
-7.  Click on the **Insert **(1)** drop-down and select **First question in survey (2)**.
+7.  Click on the **Insert (1)** drop-down and select **First question in survey (2)**.
 
      ![](../images/resolution-11.png)
 
