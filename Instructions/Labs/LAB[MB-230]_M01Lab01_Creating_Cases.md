@@ -12,7 +12,7 @@ In this exercise, you will create an Account, a Contact, and a Case record. You 
 
 ### Task 1 – Create Account
 
-1.  On **Customer Service Hub** page, click on **Accounts (1)** from the **Customers** section of the sitemap and click on **+ New (2)
+1.  On **Customer Service Hub** page, click on **Accounts (1)** from the **Customers** section of the sitemap and click on **+ New (2)**
 
      ![](../images/newaccount.png)
      
@@ -38,9 +38,9 @@ In this exercise, you will create an Account, a Contact, and a Case record. You 
  
    - First Name: Enter **Jane (1)**.
 
-   - Last Name: Enter **Doe (2)** for **Last Name**.
+   - Last Name: Enter **Doe (2)**.
 
-   - Account Name: Enter **Relecloud (3)**.
+   - Account Name: Select **Relecloud (3)**.
 
    - Click **Save & Close (5)**.
 
@@ -54,9 +54,9 @@ In this exercise, you will create an Account, a Contact, and a Case record. You 
  
    - First Name: Enter **Jon (1)**.
 
-   - Last Name: Enter **Doe (2)** for **Last Name**.
+   - Last Name: Enter **Doe (2)** .
 
-   - Account Name: Enter **Relecloud (3)**.
+   - Account Name: Select **Relecloud (3)**.
 
    - Click **Save & Close (5)**.
 
@@ -86,14 +86,14 @@ In this exercise, you will create an Account, a Contact, and a Case record. You 
      
 1.  In the Create a subject dialog, enter the following information and remaining leave default then Select **Save and close (3)**.:
     
-     - Title: Type **Maintenance (1)** for the subject.
+     - Title: Type **Maintenance (1)**.
     
      - Click on **Save and Close (2)**
      
     
     ![](../images/maintenance.png)
     
-1.  1.  On the **Subject tree** page, select **Add** next to **Subject tree management**.
+1.  On the **Subject tree** page, select **Add** next to **Subject tree management**.
      
 1.  In the Create a subject dialog, enter the following information and remaining leave default then Select **Save and close (3)**.:
     
@@ -205,5 +205,11 @@ In this exercise, you will create a Phone Call activity and then convert the act
 6.  Review the case that was created is closed now. Note that the customer is linked to the contact and the origin is set to Phone.
 
     ![](../images/CovertPhoneCallactivity-1.png)
+    
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
     
 **Result:** You have successfully Created the cases in dynamic 365 customer service hub app. 
