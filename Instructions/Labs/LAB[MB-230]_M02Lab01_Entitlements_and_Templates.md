@@ -141,13 +141,19 @@ In this task, you will test the default entitlement for Relecloud.
 
 11. Scroll to the **Entitlement** field and click on the **Entitlement_1**. Click **Discard changes**.
 
-12. Switch back to the **Customer service admin** page opened in the browser and click on the **odl_user_DID_Entitlement _1** created and refresh the page.
+12.  Click on the **Customer Service Hub** app from the top and select **Customer service admin**.
 
-12. Go to the **Entitlement Terms** section and make sure you have **98 Remaining Terms**.
+     ![](../images/Customer-service-admin-1.png)
 
-13. Go to the **Entitlement Channel** sub-grid and make sure you have **49 Remaining Terms** for **Email**, **9 Remaining Terms** for **Facebook**, **10 Remaining Terms** for **Twitter**, and **30 Remaining Terms** for **Web**.
+13. Using the navigation on the left, select **Service Term** under **Operations** and Select **Manage** next to **Entitlements**.
 
-    ![](../images/Entitlement-4.png)
+     ![](../images/serviceterms.png)
+
+14. Select **Entitlement 1**, go to the **Entitlement Terms** section and make sure you have **98 Remaining Terms**.
+
+15. Go to the **Entitlement Channel** sub-grid and make sure you have **49 Remaining Terms** for **Email**, **9 Remaining Terms** for **Facebook**, **10 Remaining Terms** for **Twitter**, and **30 Remaining Terms** for **Web**.
+
+      ![](../images/en1.png)
     
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
@@ -280,31 +286,32 @@ In this task, you will test the entitlement you created from the entitlement tem
 7.  Enter **Wrong cables (1)** for **Case Title** and select the **Relecloud (2)** account for **Customer**, Select **Web (3)** for **Origin**, scroll down to the **Entitlement** field and select **Phone Call Only Terms (4)**, click **Save (5)**. 
 
      ![](../images/wrongcables.png)
+     
 8. You will get an error telling you that there are no available terms.
 
-11. Click **OK**.
+9. Click **OK**.
 
-    ![](../images/error2.png)
+    ![](../images/wrngcable.png)
 
-12. You should get the same error if you select Email, Facebook or Twitter for Origin.
+10. You should get the same error if you select Email, Facebook or Twitter for Origin.
 
-13. Select **Web** for **Origin** and clear the **Entitlement** field.
+11. Select **Web** for **Origin** and clear the **Entitlement** field.
 
-14. Click **Save**.
+12. Click **Save**.
 
-15. Since you didn’t select the **Phone Call Only Terms** entitlement, the case will now be created.
+13. Since you didn’t select the **Phone Call Only Terms** entitlement, the case will now be created.
 
-16.  Click on the **Customer Service Hub** app from the top and select **Customer service admin**.
+14.  Click on the **Customer Service Hub** app from the top and select **Customer service admin**.
 
-    ![](../images/Customer-service-admin-1.png)
+   ![](../images/Customer-service-admin-1.png)
     
-7.  In the site map, select **Service terms** in Operations. The Service Terms page appears.
+15.  In the site map, select **Service terms** in Operations. The Service Terms page appears.
 
-18. Click on **Manage** in the **Entitlement** section.
+16. Click on **Manage** in the **Entitlement** section.
 
-19. Click to open the **Phone Call Only Terms** entitlement.
+17. Click to open the **Phone Call Only Terms** entitlement.
 
-20. Make sure you have **19 Remaining Terms** and **19 Phone** channel **Remaining Terms**.
+18. Make sure you have **19 Remaining Terms** and **19 Phone** channel **Remaining Terms**.
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - Select the **Lab Validation** tab located at the upper right corner of the lab guide section.
@@ -546,13 +553,13 @@ In this task, you will test that the SLA is applied to cases.
 
 1.  Click **+ New Case**.
 
-1.  Enter **odl_user_DID_SLA_Test #1** for **Case Title** and select the **odl_user_DID_Relecloud** account for **Customer**.
+1.  Enter **SLA_Test #1** for **Case Title** and select the **Relecloud** account for **Customer**.
 
 1.  Select **Web** for **Origin** and click **Save**.
 
 1.  Select **Details tab** and in **Type section** select **Problem** from the drop down click **Save**.
 
-    ![](../images/Entitlement-20.png)
+    ![](../images/sla.png)
 
 1.  Select the **SLA** tab. You should see the Case Response By SLA KPI in progress with failure time set to 1 hour's time.
 
@@ -562,7 +569,7 @@ In this task, you will test that the SLA is applied to cases.
 
 1.  Click **Go back**, click **+ New Case**.
 
-1. Enter **odl_user_DID_SLA_Test #2** for **Case Title** and select the **odl_user_DID_Relecloud** account for **Customer**.
+1. Enter **SLA_Test #2** for **Case Title** and select the **Relecloud** account for **Customer**.
 
 1. Select **Email** for **Origin** and click **Save**.
 
