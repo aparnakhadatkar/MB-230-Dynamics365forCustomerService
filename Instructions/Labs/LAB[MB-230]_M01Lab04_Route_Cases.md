@@ -44,17 +44,23 @@ You are a customer service manager at City Power & Light who has been tasked wit
 
     ![](../images/creation-rules-3.png)
 
-1. If prompted to connect to Dataverse, click **Continue**.
-
 1. If not Sign-in, then enter following **Email/Username** and then click on **Next**. 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
    
+   
 1. Now enter the following **Password** and click on **Sign in**.
    * Password: <inject key="AzureAdUserPassword"></inject>
+  
+  
+1. If you see the pop-up **Action Required** page, select **Ask Later**.
+
+    ![](../images/asklater.png)
+    
+1. If prompted to connect to **Microsoft Dataverse**, click **Continue**.
 
 1. Expand the **Create a record (don't rename this step)** step.
 
-    ![](../images/creation-rules-4.png)
+    ![](../images/creationrules4.png)
 
 1. Set the **Case Type** to **Request (1)**.
 
@@ -64,11 +70,11 @@ You are a customer service manager at City Power & Light who has been tasked wit
 
     ![](../images/creation-rules-50.png)
 
-1. Click **Close** in the *Record Creation and Update Rule Item* dialog.
+1. Nevigate back to **Customer service admin center** app and click **Close** in the **Record Creation and Update Rule Item** dialog.
 
-2. In **Step three: additional actions to take after matching with a condition**, set *Automatically reply to email*  to **Yes (1)**.
+2. In **Step three: additional actions to take after matching with a condition**, set **Automatically reply to email**  to **Yes (1)**.
 
-1. In *Select email template*, search for and select **Case Auto Response (2)**.
+1. In **Select email template**, search for and select **Case Auto Response (2)**.
 
 1. Click **Save (3)**.
 
@@ -91,10 +97,6 @@ You are a customer service manager at City Power & Light who has been tasked wit
 ## Exercise 2 – Basic routing
 
 ### Task 1 – Configure basic routing rule set
-
-1.  Click on the **Customer Service Hub** app from the top and select **Customer service admin**.
-
-    ![](../images/Customer-service-admin-1.png)
     
 1.  Click on **Routing** in the **Customer support** section and then click on **Manage** from right side of the **Basic routing rile sets**.
 
@@ -212,7 +214,7 @@ You are a customer service manager at City Power & Light who has been tasked wit
 
     ![](../images/Basic-routing-74.png)
 
-10. Open the **Defective Screen** case again.
+10. Open the **Defective Screen Not Received** case again.
 
 11. Click **Queue Item Details** located on the command bar.
 
