@@ -77,7 +77,7 @@ In this task, you will create facilities/equipment records for the organizationa
 
     ![](../images/Personalization-Settings-006.png)
 
-3.  Enter **Main Ave - Service Bay 1** for **Name**, select **Main Ave Location** for **Organizational Unit**, select a *Time Zone*, select the root **Business Unit**, and click **Save **.
+3.  Enter **Main Ave - Service Bay 1** for **Name**, select **Main Ave Location** for **Organizational Unit**, select a *Time Zone*, select the root **Business Unit**, and click **Save**.
 
     ![](../images/Personalization-Settings-029.png)
 
