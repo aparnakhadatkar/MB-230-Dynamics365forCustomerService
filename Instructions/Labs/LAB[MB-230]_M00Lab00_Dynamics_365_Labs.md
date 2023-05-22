@@ -75,7 +75,7 @@ In this practice lab, you will validate and set up your tenant.
 
 1. On the Power Platform admin center, select the **Prod-Env** environment.
 
-   ![](../images/prodenv1.png)
+   ![](../images/prodready.png)
     
 1. Click on the drop-down next to **Resources** and select **Dynamic 365 apps**.
 
@@ -93,16 +93,16 @@ In this practice lab, you will validate and set up your tenant.
 
     ![](../images/clickinstall.png)
   
-     >**Note:** It will take 25-30 minutes to get install. Once it got installed you can see that the status got changed from **Installing** to **Installed**. You can move on to the next task.
+     >**Note:** It will take 25-30 minutes to get installed, do not wait to get installed, perform the next task. Once it got installed you can see that the status got changed from **Installing** to **Installed**. You can move on to the next task.
  
-      ![](../images/install.png)
+     ![](../images/install.png)
 
 
 ### Task 4 – Access the Dynamics 365 application
 
 1. On the Power Platform admin center, select the **Prod-Env** environment.
 
-   ![](../images/prodenv1.png)
+   ![](../images/prodready.png)
    
 1. Select the **Open** located on the command bar.
 
