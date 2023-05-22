@@ -14,7 +14,7 @@ In this exercise, you will create four queues.
 
     ![](../images/Customer-service-admin-1.png)
 
-1. Click on **Queues (1)** in the **Customer support** section and then click on **Manage (2)** from right side.
+1. Click on **Queues (1)** in the **Customer support** section and then click on **Manage (2)** for **Basic queues** from right side.
 
     ![](../images/Customer-service-admin-2.png)
 
@@ -60,6 +60,8 @@ In this exercise, you will create four queues.
 
 1. On the services page, refresh the page and Click **Queues** under the **Service** section.
 
+      ![](../images/queues.png)
+
 1. Change the view from **Items I am working on** to **All items**
 
     ![](../images/all-item.png)
@@ -80,7 +82,7 @@ In this exercise, you will create four queues.
 
 1.  Click on **Cases (1)** in the **Service** section of the sitemap.
 
-1.  Select the **My Active cases** from the drop down and you will be able to see **Service Required**.
+1.  Select the **My Active cases** from the drop-down and you will be able to see **Service Required**.
 
     ![](../images/adds-1.png)
 
